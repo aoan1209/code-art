@@ -1,0 +1,7 @@
+html, body {
+  margin: auto;
+  max-width: 1200px;
+}
+canvas {
+  display: block;
+}
